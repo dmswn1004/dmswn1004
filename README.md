@@ -3,7 +3,7 @@
 <!-- ### 👋 Hi, I'm Eunju Jo. 
 ### I'm studying Back-end Engineer 💻 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmswn1004)](https://github.com/dmswn1004/github-readme-stats)
+
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmswn1004)](https://github.com/dmswn1004/github-readme-stats) -->
