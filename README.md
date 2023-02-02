@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FCB6D0&height=300&section=header&fontColor=f7f5f5&text=EunJu's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38)
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdmswn1004&count_bg=%23FF90F5&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 <h2 align="center"> 🙋‍♀️ Profile </h2>
 
 I'm Back-end Engineer 🧐
