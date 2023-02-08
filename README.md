@@ -8,6 +8,7 @@ I'm Back-end Engineer 🧐
 > Major : IT Management & Computer Science and Engineering  
 > E-mail : dmswnehf@naver.com  
 <a href="https://velog.io/@dmswn1004"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat&logo=Blogger&logoColor=white"/></a>
+<a href="https://j-tech-dev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Blogger&logoColor=white"/></a>
 
 <div align="center">
   
