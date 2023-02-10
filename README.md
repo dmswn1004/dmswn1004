@@ -32,10 +32,10 @@ I'm Back-end developer 🧐
 ### 🍀 I'm currently studying 🍀
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
   
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/dmswn1004">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dmswn1004&show_icons=true&theme=radical&repo=github-readme-stats" height="180"/>
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/dmswn1004">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmswn1004&layout=compact&theme=radical&repo=convoychat" height="180"/>
   
 </a>
