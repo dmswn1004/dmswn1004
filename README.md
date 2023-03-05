@@ -7,8 +7,10 @@ I'm Back-end developer 🧐
 <!-- - Univ : Tech University of Korea  -->
 > Major : IT Management & Computer Science and Engineering  
 > E-mail : dmswnehf@naver.com  
-> Blog : <a href="https://j-tech-dev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Blogger&logoColor=white"/></a>  
-> Resume : <a href="https://www.notion.so/c4c8af7f5b194fea8ad88a841470492a"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Blogger&logoColor=white"/>
+[Blog](https://j-tech-dev.tistory.com/) ⎮ [Resume](https://www.notion.so/c4c8af7f5b194fea8ad88a841470492a)
+
+<!-- Blog : <a href="https://j-tech-dev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Blogger&logoColor=white"/></a>  
+Resume : <a href="https://www.notion.so/c4c8af7f5b194fea8ad88a841470492a"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Blogger&logoColor=white"/> -->
 
 <div align="center">
   
