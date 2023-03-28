@@ -33,11 +33,11 @@ Resume : <a href="https://www.notion.so/c4c8af7f5b194fea8ad88a841470492a"><img s
 ### 🍀 I'm currently studying 🍀
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
   
-<a href="https://github.com/dmswn1004">
+<!-- <a href="https://github.com/dmswn1004">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dmswn1004&show_icons=true&theme=radical&repo=github-readme-stats" height="180"/>
 </a>
 <a href="https://github.com/dmswn1004">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmswn1004&exclude_repo=python&layout=compact&theme=radical&repo=convoychat" height="180"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmswn1004&exclude_repo=python&layout=compact&theme=radical&repo=convoychat" height="180"/> -->
   
 </a>
 </div>
