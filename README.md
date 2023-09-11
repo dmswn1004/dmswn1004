@@ -2,11 +2,10 @@
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdmswn1004&count_bg=%23FF90F5&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 
-<!-- <h2 align="center"> 🙋‍♀️ Profile </h2>  -->
+<!-- <h2 align="center"> 🙋‍♀️ Profile </h2> -->
 
-<!-- - Univ : Tech University of Korea  -->
-<!-- > Major : IT Management & Computer Science and Engineering  -->
-<!-- > E-mail : dmswnehf@naver.com  -->
+- E-mail : eunju.jo.1004@gmail.com
+<!-- - Major : IT Management & Computer Science and Engineering -->
 <!-- [Blog](https://j-tech-dev.tistory.com/) ⎮ [Resume](https://www.notion.so/c4c8af7f5b194fea8ad88a841470492a) -->
 
 <!-- Blog : <a href="https://j-tech-dev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Blogger&logoColor=white"/></a>  
