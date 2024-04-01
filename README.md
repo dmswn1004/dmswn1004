@@ -11,37 +11,29 @@
 <!-- Blog : <a href="https://j-tech-dev.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Blogger&logoColor=white"/></a>  
 Resume : <a href="https://www.notion.so/c4c8af7f5b194fea8ad88a841470492a"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Blogger&logoColor=white"/> -->
 
-<div align="center"> 
+<!-- <div align="center"> -->
   
 ## 🖥️ Tech Stack
-<!-- ### 🌸 I have experienced 🌸 -->
-<!-- ### 🍀 I'm currently studying 🍀 -->
-###### Frontend <br>
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
+#### Frontend 
+| Framework | Library | Testing | Style | State Management | Language |
+|:--------:|:-------:|:------:|:----------:|:----:|:-----:|
+|<img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />|<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" /> <br> <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=reactquery&logoColor=white"/> <br> <img src="https://img.shields.io/badge/googleanalytics-E37400?style=flat&logo=googleanalytics&logoColor=white"/>|<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/> <br> <img src="https://img.shields.io/badge/storybook-FF4785?style=flat&logo=storybook&logoColor=white"/>|<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/> <br> <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>|<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/>|<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/> <br> <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/> <br> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /> <br> <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />|
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+#### backend <br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 
-<img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=reactquery&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" /> -->
 
-<img src="https://img.shields.io/badge/googleanalytics-E37400?style=flat&logo=googleanalytics&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
-<br> 
-
-###### backend <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-
-<!-- <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=ffffff"/>  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" /> -->
-
-###### DevOps <br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>  <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/>  <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat&logo=Gunicorn&logoColor=white" />  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
+#### DevOps <br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white"/> <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat&logo=Gunicorn&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/>
 
 <!-- ###### Monitoring <br>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=white"/>  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/cAdvisor-34E0A1?style=flat&logo=&logoColor=ffffff"/> -->
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=Grafana&logoColor=white"/> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white"/> <img src="https://img.shields.io/badge/cAdvisor-34E0A1?style=flat&logo=&logoColor=ffffff"/> -->
 
-###### ETC <br>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+#### ETC <br>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"/>  <img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=GitKraken&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"/> <img src="https://img.shields.io/badge/GitKraken-179287?style=flat&logo=GitKraken&logoColor=white"/> <img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white"/>   
   
 <!-- <a href="https://github.com/dmswn1004">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dmswn1004&show_icons=true&theme=radical&repo=github-readme-stats" height="180"/>
@@ -50,6 +42,6 @@ Resume : <a href="https://www.notion.so/c4c8af7f5b194fea8ad88a841470492a"><img s
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmswn1004&exclude_repo=python&layout=compact&theme=radical&repo=convoychat" height="180"/> -->
   
 </a>
-</div>
+<!-- </div> -->
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
